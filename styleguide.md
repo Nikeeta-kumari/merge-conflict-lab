@@ -1,2 +1,2 @@
 If you have questions, please
-open an issue
+ask your question in IRC.
