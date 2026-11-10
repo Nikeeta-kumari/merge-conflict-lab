@@ -1,2 +1,1 @@
-If you have questions, please
-open an issue on GitHub.
+If you have questions, please open an issue or ask in our IRC channel if it's more urgent.
